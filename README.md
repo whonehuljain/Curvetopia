@@ -1,5 +1,7 @@
 ## Project Title: Enhancing Doodles with Bezier Curves and Circle Fitting
 
+Curvetopia: Adobe Gensolve round 2 project
+
 Here is the colab notebook link:
 - Regularization.ipynb: https://colab.research.google.com/drive/1L0jli7v26hM0yPadoTW8-m_TrsRkQpVI?usp=sharing
 - Symmetry and Occlusion.ipynb: https://colab.research.google.com/drive/1GyEIuJzwvbksrrBzNMhIfDyTUF85N5AW?usp=sharing
