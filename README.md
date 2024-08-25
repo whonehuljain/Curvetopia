@@ -1,4 +1,4 @@
-## Project Title: Enhancing Doodles with Bezier Curves and Circle Fitting
+## Curvetopia: Enhancing Doodles with Bezier Curves and Circle Fitting
 
 Curvetopia: Adobe Gensolve round 2 project
 
@@ -55,7 +55,7 @@ This project is currently under development. Detailed setup instructions and cod
 
 
 
-#
+## License
 
-This README provides a comprehensive overview of the project, detailing the problem statement, methodology, challenges faced, and future directions. It serves as a foundational document for anyone interested in learning more about the project or contributing to its development.
+This project is licensed under the MIT License.
 
